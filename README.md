@@ -164,8 +164,6 @@ Rain-Prediction-Random-Forest/
 
 ---
 
-## 📄 𝐋𝐢𝐜𝐞𝐧𝐬𝐞
-
 This project is licensed under the **MIT License**.
 
 ---
